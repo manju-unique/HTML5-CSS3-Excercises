@@ -1,49 +1,46 @@
-.heading {
-    display: block;
-    height: 100px;
-    width: 100%;
-    text-align: center;
-}
-
 body {
-    background-color: black;
-    color: white;
-}
+        background-color: black;
+        color: white;
+     }
+
+.heading {
+            display: block;
+            height: 100px;
+            width: 100%;
+            text-align: center;
+         }
 
 .firstName {
-    display: inline;
-    margin-left: 99px; 
-    margin-top: 10px;
-    
-    
-}
+                display: inline;
+                margin-left: 99px; 
+                margin-top: 10px;
+           }
 
 .secondName {
-    display: inline;
-    margin-left: 80px; 
-    margin-bottom: 10px;
-
-}
+                display: inline;
+                margin-left: 80px; 
+                margin-bottom: 10px;
+            }
 
 .how_known {
-    display: inline;
-    margin-top: 10px;
-}
+                display: inline;
+                margin-top: 10px;
+           }
 
 .comments {
-    display: block;
-    margin-top: 10px;
-}
+                display: block;
+                margin-top: 10px;
+          }
 
-.form  {
-    display:block;
-    height: 1000px;
-    width: 500px;
-    margin-left: 680px;
-}
+.form    {
+            display:block;
+            height: 1000px;
+            width: 500px;
+            margin-left: 680px;
+         }
 
 .submit {
-    margin-left: 200px;
-    font-size:15px;
-    font-style: italic;
-}
+            margin-left: 200px;
+            font-size:15px;
+            font-style: italic;
+        }
